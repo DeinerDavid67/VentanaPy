@@ -15,11 +15,11 @@ COLOR_GRID = (30, 120, 30)
 
 # ---------------------------------------------------------------------
 # LEYENDA:
-# 1 = Muro exterior (Gris)
-# 0 = Piso libre (Verde)
-# 2 = Estructura interna (Bloque gris claro)
-# 8 = Entrada en el muro izquierdo (Abertura verde)
-# 9 = Salida en el muro derecho (Abertura roja)
+# 1 = Muro exterior
+# 0 = Piso libre
+# 2 = Estructura interna 
+# 8 = Entrada en el muro izquierdo
+# 9 = Salida en el muro derecho
 # ---------------------------------------------------------------------
 
 
